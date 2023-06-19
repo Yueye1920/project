@@ -1,0 +1,14 @@
+
+
+**用户账户：W420000010
+**用户密码：Aa111111
+**用户登录成功
+**用款计划录入（单位）保存成功
+**用款计划录入（单位）保存成功
+**用款计划录入（单位）作废成功
+**用款计划录入（单位）送审成功
+**用款计划录入（单位）撤销成功
+**用款计划录入（单位）送审成功
+**用款计划审核（单位）退回成功
+程序异常终止，截图成功
+{'报错类型': <class 'selenium.common.exceptions.ElementClickInterceptedException'>, '报错信息': ElementClickInterceptedException('element click intercepted: Element <div class="header-right-search flex">...</div> is not clickable at point (359, 24). Other element would receive the click: <div role="alert" class="el-message el-message--success el-message-fade-leave-active el-message-fade-leave-to" style="top: 20px; z-index: 2010;">...</div>\n  (Session info: headless chrome=103.0.5060.53)', None, ['Backtrace:', '\tOrdinal0 [0x00526463+2188387]', '\tOrdinal0 [0x004BE461+1762401]', '\tOrdinal0 [0x003D3D78+802168]', '\tOrdinal0 [0x00407F9B+1015707]', '\tOrdinal0 [0x00405F68+1007464]', '\tOrdinal0 [0x00403C6B+998507]', '\tOrdinal0 [0x004029D9+993753]', '\tOrdinal0 [0x003F8613+951827]', '\tOrdinal0 [0x0041C7DC+1099740]', '\tOrdinal0 [0x003F7FF4+950260]', '\tOrdinal0 [0x0041C9F4+1100276]', '\tOrdinal0 [0x0042CC22+1166370]', '\tOrdinal0 [0x0041C5F6+1099254]', '\tOrdinal0 [0x003F6BE0+945120]', '\tOrdinal0 [0x003F7AD6+948950]', '\tGetHandleVerifier [0x007C71F2+2712546]', '\tGetHandleVerifier [0x007B886D+2652765]', '\tGetHandleVerifier [0x005B002A+520730]', '\tGetHandleVerifier [0x005AEE06+516086]', '\tOrdinal0 [0x004C468B+1787531]', '\tOrdinal0 [0x004C8E88+1805960]', '\tOrdinal0 [0x004C8F75+1806197]', '\tOrdinal0 [0x004D1DF1+1842673]', '\tBaseThreadInitThunk [0x7673FA29+25]', '\tRtlGetAppContainerNamedObjectPath [0x77EA7A7E+286]', '\tRtlGetAppContainerNamedObjectPath [0x77EA7A4E+238]', '']), '报错文件': 'T_AllurePlanWholeflowWT_111.py', '报错行数': 261}

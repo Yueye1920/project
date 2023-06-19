@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-Q4LBVBF2PED",
+    "children" : [ {
+      "name" : "10684-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例一",
+        "uid" : "1d64bf4636e4cac5",
+        "parentUid" : "3538fb85d07951f8e14b0906c3247956",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676970373137,
+          "stop" : 1676970373137,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "7428b6d10f3c6c15",
+        "parentUid" : "3538fb85d07951f8e14b0906c3247956",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676970373153,
+          "stop" : 1676970373153,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3538fb85d07951f8e14b0906c3247956"
+    } ],
+    "uid" : "1de1c6d22536bdd02159bf89e857a11b"
+  } ]
+}

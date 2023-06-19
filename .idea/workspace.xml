@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61bac36f-988a-4bcb-9fea-7e560d636203" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Selenium_test/Environment_228/A_PlanFirstflow_228.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2CbHxN219vltUhLFW1a8dpiSosv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="java.sql.Driver" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pypro\Selenium_test\Environment_111" />
+      <recent name="E:\pypro\Selenium_test\Environment_228" />
+      <recent name="E:\pypro\Selenium_test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pypro\Selenium_test\CopyProject" />
+      <recent name="E:\pypro\Selenium_test\Environment_228" />
+      <recent name="E:\pypro\Selenium_test" />
+      <recent name="E:\pypro\Selenium_test\Environment_111" />
+      <recent name="E:\pypro\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python 测试.T_AllurePlanWholeflowWT_111.TestPlan.test_planwhole 的 pytest">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\pypro\test\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_Demo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/test_Demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="A_PlanWholeflowTest_111.py的TestPlan" type="tests" factoryName="py.test">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_test/Environment_111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;A_PlanWholeflowTest_111.TestPlan&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="A_PlanWholeflowTest_111.py的test_planwhole" type="tests" factoryName="py.test">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_test/Environment_111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;A_PlanWholeflowTest_111.TestPlan.test_planwhole&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="T_AllurePlanWholeflowWT_111.TestPlan 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_test/Environment_111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;T_AllurePlanWholeflowWT_111.TestPlan&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="T_AllurePlanWholeflowWT_111.TestPlan.test_payvoucher 的 pytest" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;T_AllurePlanWholeflowWT_111.TestPlan.test_payvoucher&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="T_AllurePlanWholeflowWT_111.TestPlan.test_planwhole 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_test/Environment_111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;T_AllurePlanWholeflowWT_111.TestPlan.test_planwhole&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest (A_PlanWholeflowTest_111.py 内)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_test/Environment_111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Selenium_test/Environment_111/A_PlanWholeflowTest_111.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest (T_AllurePlanWholeflowWT_111.py 内)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_test/Environment_111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Selenium_test/Environment_111/T_AllurePlanWholeflowWT_111.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test_Demo" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python 测试.A_PlanWholeflowTest_111.py的TestPlan" />
+      <item itemvalue="Python 测试.A_PlanWholeflowTest_111.py的test_planwhole" />
+      <item itemvalue="Python 测试.T_AllurePlanWholeflowWT_111.TestPlan.test_payvoucher 的 pytest" />
+      <item itemvalue="Python 测试.T_AllurePlanWholeflowWT_111.TestPlan.test_planwhole 的 pytest" />
+      <item itemvalue="Python 测试.pytest (T_AllurePlanWholeflowWT_111.py 内)" />
+      <item itemvalue="Python 测试.T_AllurePlanWholeflowWT_111.TestPlan 的 pytest" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python 测试.pytest (A_PlanWholeflowTest_111.py 内)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python 测试.T_AllurePlanWholeflowWT_111.TestPlan.test_planwhole 的 pytest" />
+        <item itemvalue="Python 测试.T_AllurePlanWholeflowWT_111.TestPlan 的 pytest" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python 测试.pytest (A_PlanWholeflowTest_111.py 内)" />
+        <item itemvalue="Python 测试.pytest (T_AllurePlanWholeflowWT_111.py 内)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="61bac36f-988a-4bcb-9fea-7e560d636203" name="变更" comment="" />
+      <created>1659064616158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659064616158</updated>
+      <workItem from="1659064624595" duration="2920000" />
+      <workItem from="1664524656671" duration="2009000" />
+      <workItem from="1672996296524" duration="1253000" />
+      <workItem from="1673252171775" duration="2272000" />
+      <workItem from="1673511038707" duration="5223000" />
+      <workItem from="1673571417922" duration="23146000" />
+      <workItem from="1674867347645" duration="34731000" />
+      <workItem from="1674979588165" duration="20606000" />
+      <workItem from="1676879656815" duration="17408000" />
+      <workItem from="1677481377802" duration="1324000" />
+      <workItem from="1677482750948" duration="100000" />
+      <workItem from="1677482884397" duration="3176000" />
+      <workItem from="1677545878148" duration="38769000" />
+      <workItem from="1678154375229" duration="43522000" />
+      <workItem from="1679984438181" duration="23192000" />
+      <workItem from="1680768040527" duration="33301000" />
+      <workItem from="1681437134194" duration="5346000" />
+      <workItem from="1686553203602" duration="37773000" />
+      <workItem from="1686820236918" duration="1792000" />
+      <workItem from="1686903107899" duration="48000" />
+      <workItem from="1686903268420" duration="2384000" />
+      <workItem from="1687137414654" duration="7915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium_test/Environment_111/A_PlanWholeflowWT_111.py</url>
+          <line>388</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium_test/Environment_111/A_PlanWholeflowWT_111.py</url>
+          <line>505</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium_test/Environment_111/A_PlanWholeflowWT_111.py</url>
+          <line>592</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium_test/Environment_111/A_PlanWholeflowWT_111.py</url>
+          <line>616</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pypro$test1_111.coverage" NAME="test1_111 覆盖结果" MODIFIED="1678266553700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test" />
+    <SUITE FILE_PATH="coverage/pypro$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1675048288404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pypro$C_BudgetTemFirstflow_228.coverage" NAME="C_BudgetTemFirstflow_228 覆盖结果" MODIFIED="1680853061071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$T_AllurePlanWholeflowWT_111_TestPlan__pytest.coverage" NAME="T_AllurePlanWholeflowWT_111.TestPlan 的 pytest 覆盖结果" MODIFIED="1687142079625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$A_PlanWholeflowTest_111.coverage" NAME="A_PlanWholeflowTest_111 覆盖结果" MODIFIED="1686554768790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$T_AllurePlanWholeflowWT_111_TestPlan_test_planwhole__pytest.coverage" NAME="T_AllurePlanWholeflowWT_111.TestPlan.test_planwhole 的 pytest 覆盖结果" MODIFIED="1687142234518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$B_PayFirstflow_111.coverage" NAME="B_PayFirstflow_111 覆盖结果" MODIFIED="1678437162622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$main.coverage" NAME="main 覆盖结果" MODIFIED="1675048419716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pypro$T_Paytest.coverage" NAME="T_Paytest 覆盖结果" MODIFIED="1679994201316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$C_BudgetFirstflow_228.coverage" NAME="C_BudgetFirstflow_228 覆盖结果" MODIFIED="1680850212449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$A_PlanWholeflow_111.coverage" NAME="A_PlanWholeflow_111 覆盖结果" MODIFIED="1681438192385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$test_2_Test2__pytest.coverage" NAME="test_2.Test2 的 pytest 覆盖结果" MODIFIED="1681086803157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$test_2_Test2_test_2__pytest.coverage" NAME="test_2.Test2.test_2 的 pytest 覆盖结果" MODIFIED="1681091789001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$pytest__C_BudgetFirstflowIDE_228_py__.coverage" NAME="pytest (C_BudgetFirstflowIDE_228.py 内) 覆盖结果" MODIFIED="1681093559290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$test__Test_test___pytest.coverage" NAME="test_.Test.test_ 的 pytest 覆盖结果" MODIFIED="1680856056162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$conftest.coverage" NAME="conftest 覆盖结果" MODIFIED="1676963380041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/pypro$A_PlanWholeflowWT_111_TestPlan_test_planwhole__pytest.coverage" NAME="A_PlanWholeflowWT_111.TestPlan.test_planwhole 的 pytest 覆盖结果" MODIFIED="1686796601029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$C_BudgetFirstflowIDE_228_Test2_test_2__pytest.coverage" NAME="C_BudgetFirstflowIDE_228.Test2.test_2 的 pytest 覆盖结果" MODIFIED="1686558632461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$test_1_Test1__pytest.coverage" NAME="test_1.Test1 的 pytest 覆盖结果" MODIFIED="1680856281108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$pytest__T_AllurePlanWholeflowWT_111_py__.coverage" NAME="pytest (T_AllurePlanWholeflowWT_111.py 内) 覆盖结果" MODIFIED="1686903886086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$A_PlanWholeflowTest_111_pytest_planwhole.coverage" NAME="A_PlanWholeflowTest_111.py的test_planwhole 覆盖结果" MODIFIED="1686707251180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$T_Pyautoguitest.coverage" NAME="T_Pyautoguitest 覆盖结果" MODIFIED="1680858740610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$C_BudgetFirstflowIDE_228_Test2__pytest.coverage" NAME="C_BudgetFirstflowIDE_228.Test2 的 pytest 覆盖结果" MODIFIED="1686558589865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$T_AllurePlanWholeflowWT_111_TestPlan_test_payvoucher__pytest.coverage" NAME="T_AllurePlanWholeflowWT_111.TestPlan.test_payvoucher 的 pytest 覆盖结果" MODIFIED="1686816687709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pypro$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1687139305134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pypro$pytest__A_PlanWholeflowTest_111_py__.coverage" NAME="pytest (A_PlanWholeflowTest_111.py 内) 覆盖结果" MODIFIED="1687138987494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$test1__1_.coverage" NAME="test1 (1) 覆盖结果" MODIFIED="1678154588155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test" />
+    <SUITE FILE_PATH="coverage/pypro$B_PayFirstflow_228.coverage" NAME="B_PayFirstflow_228 覆盖结果" MODIFIED="1679995088561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$C_BudgetFirstflowHD_228.coverage" NAME="C_BudgetFirstflowHD_228 覆盖结果" MODIFIED="1681096088351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_228" />
+    <SUITE FILE_PATH="coverage/pypro$pytest__A_PlanWholeflowWT_111_py__.coverage" NAME="pytest (A_PlanWholeflowWT_111.py 内) 覆盖结果" MODIFIED="1686706659726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_test/Environment_111" />
+    <SUITE FILE_PATH="coverage/pypro$.coverage" NAME=" 覆盖结果" MODIFIED="1676970269530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+  </component>
+</project>

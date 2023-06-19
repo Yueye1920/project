@@ -1,0 +1,31 @@
+[ {
+  "uid" : "281842db5218c9ac",
+  "name" : "测试标题：用款计划全流程测试",
+  "time" : {
+    "start" : 1687144656920,
+    "stop" : 1687144801307,
+    "duration" : 144387
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f07b7566631f1bd1",
+  "name" : "测试标题：用例三",
+  "time" : {
+    "start" : 1687144804426,
+    "stop" : 1687144804427,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4608983cb510598",
+  "name" : "测试标题：用例二",
+  "time" : {
+    "start" : 1687144802982,
+    "stop" : 1687144802983,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

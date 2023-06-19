@@ -1,0 +1,369 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-Q4LBVBF2PED",
+    "children" : [ {
+      "name" : "13208-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例二",
+        "uid" : "a2e72cd57c7f9351",
+        "parentUid" : "d76185a82f28f881e6da42c4cef31425",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687143372687,
+          "stop" : 1687143372688,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "9600aef1c93c9ee9",
+        "parentUid" : "d76185a82f28f881e6da42c4cef31425",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687143226731,
+          "stop" : 1687143370991,
+          "duration" : 144260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d76185a82f28f881e6da42c4cef31425"
+    }, {
+      "name" : "11948-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例三",
+        "uid" : "f07b7566631f1bd1",
+        "parentUid" : "c79c1e6b5011b1868db4530302e57e8e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687144804426,
+          "stop" : 1687144804427,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "e4608983cb510598",
+        "parentUid" : "c79c1e6b5011b1868db4530302e57e8e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687144802982,
+          "stop" : 1687144802983,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "281842db5218c9ac",
+        "parentUid" : "c79c1e6b5011b1868db4530302e57e8e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687144656920,
+          "stop" : 1687144801307,
+          "duration" : 144387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c79c1e6b5011b1868db4530302e57e8e"
+    }, {
+      "name" : "2232-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "46f6ed07b0c61156",
+        "parentUid" : "aba62b39587861cf11a89fd4020279e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687142513774,
+          "stop" : 1687142664259,
+          "duration" : 150485
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "9b442c538e78209a",
+        "parentUid" : "aba62b39587861cf11a89fd4020279e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1687142667582,
+          "stop" : 1687142667582,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aba62b39587861cf11a89fd4020279e0"
+    }, {
+      "name" : "34284-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例二",
+        "uid" : "9106d6cd88a17b6c",
+        "parentUid" : "9b0d070daa7d7916caf2d81a04a953b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1686812772782,
+          "stop" : 1686812772782,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "2b11e92141aa22d",
+        "parentUid" : "9b0d070daa7d7916caf2d81a04a953b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686812607646,
+          "stop" : 1686812772766,
+          "duration" : 165120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b0d070daa7d7916caf2d81a04a953b3"
+    }, {
+      "name" : "36680-MainThread",
+      "children" : [ {
+        "name" : "test_planwhole",
+        "uid" : "cd5d6f7f3b525531",
+        "parentUid" : "b31e2ac4d29e562a4196a042793f3f51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686811073508,
+          "stop" : 1686811084033,
+          "duration" : 10525
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b31e2ac4d29e562a4196a042793f3f51"
+    }, {
+      "name" : "7904-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "19273ae0a2aedee",
+        "parentUid" : "72b09f41b80282576b080321bebb6841",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686820596387,
+          "stop" : 1686820649661,
+          "duration" : 53274
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "a9bf21f6056d9c12",
+        "parentUid" : "72b09f41b80282576b080321bebb6841",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686820651098,
+          "stop" : 1686820651099,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72b09f41b80282576b080321bebb6841"
+    }, {
+      "name" : "7984-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例二",
+        "uid" : "c6704dd6c185ccb6",
+        "parentUid" : "b09d8e8353ea8c1608923f77ba4b81c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686820410238,
+          "stop" : 1686820410239,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "bafc6a8fe1b0957f",
+        "parentUid" : "b09d8e8353ea8c1608923f77ba4b81c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686820355737,
+          "stop" : 1686820408958,
+          "duration" : 53221
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b09d8e8353ea8c1608923f77ba4b81c3"
+    }, {
+      "name" : "6104-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例二",
+        "uid" : "542ed6b556b40e2f",
+        "parentUid" : "ea30f77e23ea140540d343c937f5cc5a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686820086190,
+          "stop" : 1686820086191,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "6e0bf68ca4cbe1bf",
+        "parentUid" : "ea30f77e23ea140540d343c937f5cc5a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686820028750,
+          "stop" : 1686820084953,
+          "duration" : 56203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ea30f77e23ea140540d343c937f5cc5a"
+    }, {
+      "name" : "14956-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "ecca6f8991026682",
+        "parentUid" : "5216af6b0c6682c2a943909fec8532b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686905160803,
+          "stop" : 1686905201986,
+          "duration" : 41183
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "c5ca697644d3257f",
+        "parentUid" : "5216af6b0c6682c2a943909fec8532b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686905204217,
+          "stop" : 1686905204219,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5216af6b0c6682c2a943909fec8532b4"
+    }, {
+      "name" : "35268-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "19f6aa750c66a103",
+        "parentUid" : "7a5c25a60af7b5116736ef567ec57425",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686813343601,
+          "stop" : 1686813526209,
+          "duration" : 182608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "6ebf5d3da2fd6360",
+        "parentUid" : "7a5c25a60af7b5116736ef567ec57425",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686813531183,
+          "stop" : 1686813531184,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a5c25a60af7b5116736ef567ec57425"
+    }, {
+      "name" : "13248-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "40bce4815400f20d",
+        "parentUid" : "8034981b9ad20f092beae9ebaf8fd522",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686904956603,
+          "stop" : 1686905044178,
+          "duration" : 87575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "e357e3aa005a4ea0",
+        "parentUid" : "8034981b9ad20f092beae9ebaf8fd522",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686905047435,
+          "stop" : 1686905047435,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8034981b9ad20f092beae9ebaf8fd522"
+    }, {
+      "name" : "4808-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例二",
+        "uid" : "121bb8bafec737bb",
+        "parentUid" : "1523a94c7440a0e936f6f32094b78e75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686903552621,
+          "stop" : 1686903552621,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用款计划全流程测试",
+        "uid" : "d4357fd9b34ba72d",
+        "parentUid" : "1523a94c7440a0e936f6f32094b78e75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686903515511,
+          "stop" : 1686903548712,
+          "duration" : 33201
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1523a94c7440a0e936f6f32094b78e75"
+    } ],
+    "uid" : "1de1c6d22536bdd02159bf89e857a11b"
+  } ]
+}

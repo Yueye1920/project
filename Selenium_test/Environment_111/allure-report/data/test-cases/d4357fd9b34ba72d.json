@@ -1,0 +1,116 @@
+{
+  "uid" : "d4357fd9b34ba72d",
+  "name" : "测试标题：用款计划全流程测试",
+  "fullName" : "T_AllurePlanWholeflowWT_111.TestPlan#test_planwhole",
+  "historyId" : "2b44ac42b4c414231c4023bdb268fca5",
+  "time" : {
+    "start" : 1686903515511,
+    "stop" : 1686903548712,
+    "duration" : 33201
+  },
+  "description" : "测试用例描述：用款计划全流程测试，包含正向流程逆向流程",
+  "descriptionHtml" : "<p>测试用例描述：用款计划全流程测试，包含正向流程逆向流程</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestPlan",
+    "time" : {
+      "start" : 1686903493349,
+      "stop" : 1686903514782,
+      "duration" : 21433
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "测试用例描述：用款计划全流程测试，包含正向流程逆向流程",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f82a9e7aea72cfe2",
+      "name" : "stdout",
+      "source" : "f82a9e7aea72cfe2.txt",
+      "type" : "text/plain",
+      "size" : 1378
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestPlan::0",
+    "time" : {
+      "start" : 1686903548713,
+      "stop" : 1686903548713,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "用户故事描述：用款计划测试"
+  }, {
+    "name" : "feature",
+    "value" : "用款计划测试模块"
+  }, {
+    "name" : "epic",
+    "value" : "熟悉pytest+selenium+allure自动化测试框架"
+  }, {
+    "name" : "suite",
+    "value" : "测试套件"
+  }, {
+    "name" : "tag",
+    "value" : "测试用例标签：用例一"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPlan"
+  }, {
+    "name" : "host",
+    "value" : "WIN-Q4LBVBF2PED"
+  }, {
+    "name" : "thread",
+    "value" : "4808-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "T_AllurePlanWholeflowWT_111"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址：http://10.17.8.111/#",
+    "url" : "测试用例地址：http://10.17.8.111/#",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "测试用例标签：用例一" ]
+  },
+  "source" : "d4357fd9b34ba72d.json",
+  "parameterValues" : [ ]
+}

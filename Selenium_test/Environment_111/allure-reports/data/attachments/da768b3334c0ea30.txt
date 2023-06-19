@@ -1,0 +1,7 @@
+
+
+**用户账户：W420000010
+**用户密码：Aa111111
+**用户登录成功
+程序异常终止，截图成功
+{'报错类型': <class 'selenium.common.exceptions.NoSuchElementException'>, '报错信息': NoSuchElementException('no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/div[3]/div[2]/div/div/div[1]/div[1]/div[2]/div[2]/button[1]"}\n  (Session info: headless chrome=103.0.5060.53)', None, ['Backtrace:', '\tOrdinal0 [0x00D56463+2188387]', '\tOrdinal0 [0x00CEE461+1762401]', '\tOrdinal0 [0x00C03D78+802168]', '\tOrdinal0 [0x00C31880+989312]', '\tOrdinal0 [0x00C31B1B+989979]', '\tOrdinal0 [0x00C5E912+1173778]', '\tOrdinal0 [0x00C4C824+1099812]', '\tOrdinal0 [0x00C5CC22+1166370]', '\tOrdinal0 [0x00C4C5F6+1099254]', '\tOrdinal0 [0x00C26BE0+945120]', '\tOrdinal0 [0x00C27AD6+948950]', '\tGetHandleVerifier [0x00FF71F2+2712546]', '\tGetHandleVerifier [0x00FE886D+2652765]', '\tGetHandleVerifier [0x00DE002A+520730]', '\tGetHandleVerifier [0x00DDEE06+516086]', '\tOrdinal0 [0x00CF468B+1787531]', '\tOrdinal0 [0x00CF8E88+1805960]', '\tOrdinal0 [0x00CF8F75+1806197]', '\tOrdinal0 [0x00D01DF1+1842673]', '\tBaseThreadInitThunk [0x7673FA29+25]', '\tRtlGetAppContainerNamedObjectPath [0x77EA7A7E+286]', '\tRtlGetAppContainerNamedObjectPath [0x77EA7A4E+238]', '']), '报错文件': 'T_AllurePlanWholeflowWT_111.py', '报错行数': 89}

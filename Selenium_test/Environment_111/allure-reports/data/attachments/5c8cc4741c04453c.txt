@@ -1,0 +1,9 @@
+
+
+**用户账户：W420000010
+**用户密码：Aa111111
+**用户登录成功
+**用款计划录入（单位）保存成功
+**用款计划录入（单位）保存成功
+程序异常终止，截图成功
+{'报错类型': <class 'selenium.common.exceptions.ElementNotInteractableException'>, '报错信息': ElementNotInteractableException('element not interactable\n  (Session info: headless chrome=103.0.5060.53)', None, ['Backtrace:', '\tOrdinal0 [0x008D6463+2188387]', '\tOrdinal0 [0x0086E461+1762401]', '\tOrdinal0 [0x00783C40+801856]', '\tOrdinal0 [0x007B2873+993395]', '\tOrdinal0 [0x007A8613+951827]', '\tOrdinal0 [0x007CC7DC+1099740]', '\tOrdinal0 [0x007A7FF4+950260]', '\tOrdinal0 [0x007CC9F4+1100276]', '\tOrdinal0 [0x007DCC22+1166370]', '\tOrdinal0 [0x007CC5F6+1099254]', '\tOrdinal0 [0x007A6BE0+945120]', '\tOrdinal0 [0x007A7AD6+948950]', '\tGetHandleVerifier [0x00B771F2+2712546]', '\tGetHandleVerifier [0x00B6886D+2652765]', '\tGetHandleVerifier [0x0096002A+520730]', '\tGetHandleVerifier [0x0095EE06+516086]', '\tOrdinal0 [0x0087468B+1787531]', '\tOrdinal0 [0x00878E88+1805960]', '\tOrdinal0 [0x00878F75+1806197]', '\tOrdinal0 [0x00881DF1+1842673]', '\tBaseThreadInitThunk [0x7673FA29+25]', '\tRtlGetAppContainerNamedObjectPath [0x77EA7A7E+286]', '\tRtlGetAppContainerNamedObjectPath [0x77EA7A4E+238]', '']), '报错文件': 'T_AllurePlanWholeflowWT_111.py', '报错行数': 155}

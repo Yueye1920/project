@@ -1,0 +1,64 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "熟悉pytest+selenium+allure自动化测试框架",
+    "children" : [ {
+      "name" : "用款计划测试模块",
+      "children" : [ {
+        "name" : "用户故事描述：用款计划测试",
+        "children" : [ {
+          "name" : "测试标题：用款计划全流程测试",
+          "uid" : "4f8a11e770df9f86",
+          "parentUid" : "4067bf036c123f32a3b67e4ccf009019",
+          "status" : "passed",
+          "time" : {
+            "start" : 1687144656920,
+            "stop" : 1687144801307,
+            "duration" : 144387
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4067bf036c123f32a3b67e4ccf009019"
+      }, {
+        "name" : "用户故事描述：用例二",
+        "children" : [ {
+          "name" : "测试标题：用例二",
+          "uid" : "738fc770b1cdef26",
+          "parentUid" : "e855124cfb48c13d2af082960d4c26d2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1687144802982,
+            "stop" : 1687144802983,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e855124cfb48c13d2af082960d4c26d2"
+      }, {
+        "name" : "用户故事描述：用例三",
+        "children" : [ {
+          "name" : "测试标题：用例三",
+          "uid" : "45f93147aa37fb20",
+          "parentUid" : "8a010bf1bee0dd55d66890552a9107f8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1687144804426,
+            "stop" : 1687144804427,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8a010bf1bee0dd55d66890552a9107f8"
+      } ],
+      "uid" : "1bcd87df95043f0340ff05f001fc6e4d"
+    } ],
+    "uid" : "a0a9109152423f994bfdc675d379b3e4"
+  } ]
+}

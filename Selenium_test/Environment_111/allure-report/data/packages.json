@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "T_AllurePlanWholeflowWT_111",
+    "children" : [ {
+      "name" : "测试标题：用款计划全流程测试",
+      "uid" : "281842db5218c9ac",
+      "parentUid" : "6fde61e71e8bde1cefb6a9f85f559054",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687144656920,
+        "stop" : 1687144801307,
+        "duration" : 144387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试标题：用例二",
+      "uid" : "e4608983cb510598",
+      "parentUid" : "6fde61e71e8bde1cefb6a9f85f559054",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687144802982,
+        "stop" : 1687144802983,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试标题：用例三",
+      "uid" : "f07b7566631f1bd1",
+      "parentUid" : "6fde61e71e8bde1cefb6a9f85f559054",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687144804426,
+        "stop" : 1687144804427,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6fde61e71e8bde1cefb6a9f85f559054"
+  } ]
+}

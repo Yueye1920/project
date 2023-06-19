@@ -1,0 +1,199 @@
+{
+  "uid" : "738fc770b1cdef26",
+  "name" : "测试标题：用例二",
+  "fullName" : "T_AllurePlanWholeflowWT_111.TestPlan#test_payvoucher",
+  "historyId" : "1df1e0b1adaa26c662b1a59b17908ce9",
+  "time" : {
+    "start" : 1687144802982,
+    "stop" : 1687144802983,
+    "duration" : 1
+  },
+  "description" : "测试用例描述：用例二",
+  "descriptionHtml" : "<p>测试用例描述：用例二</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestPlan",
+    "time" : {
+      "start" : 1687144801333,
+      "stop" : 1687144802981,
+      "duration" : 1648
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "测试用例描述：用例二",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5c80e06efb649fa0",
+      "name" : "stdout",
+      "source" : "5c80e06efb649fa0.txt",
+      "type" : "text/plain",
+      "size" : 24
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestPlan::0",
+    "time" : {
+      "start" : 1687144802983,
+      "stop" : 1687144802983,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "测试用例标签：用例二"
+  }, {
+    "name" : "story",
+    "value" : "用户故事描述：用例二"
+  }, {
+    "name" : "suite",
+    "value" : "测试套件"
+  }, {
+    "name" : "epic",
+    "value" : "熟悉pytest+selenium+allure自动化测试框架"
+  }, {
+    "name" : "feature",
+    "value" : "用款计划测试模块"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPlan"
+  }, {
+    "name" : "host",
+    "value" : "WIN-Q4LBVBF2PED"
+  }, {
+    "name" : "thread",
+    "value" : "11948-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "T_AllurePlanWholeflowWT_111"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址：http://10.17.8.111/#",
+    "url" : "测试用例地址：http://10.17.8.111/#",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a3ee885b8490a0c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687143372687,
+        "stop" : 1687143372688,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d824f08689f2c439",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687142667582,
+        "stop" : 1687142667582,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9af7221fff4c8c89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686905204217,
+        "stop" : 1686905204219,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "da7577baffbc2765",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686905047435,
+        "stop" : 1686905047435,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ffa2b1d9dd246974",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686903552621,
+        "stop" : 1686903552621,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bea527e2f50b505f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686820651098,
+        "stop" : 1686820651099,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4b31ebf2105dcf99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686820410238,
+        "stop" : 1686820410239,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cf720e8bb0e989bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686820086190,
+        "stop" : 1686820086191,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fbfea2d28d232525",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686813531183,
+        "stop" : 1686813531184,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "252609c2950edfd5",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('action', <FixtureRequest for <Function test_payvoucher>>)",
+      "time" : {
+        "start" : 1686812772782,
+        "stop" : 1686812772782,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "测试用例标签：用例二" ]
+  },
+  "source" : "738fc770b1cdef26.json",
+  "parameterValues" : [ ]
+}

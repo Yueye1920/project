@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DM Data Source" uuid="89a53a97-467e-4f43-a4af-2d5c6facaaed">
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <remarks>达梦数据源-228-22年</remarks>
+      <jdbc-driver>dm.jdbc.driver.DmDriver</jdbc-driver>
+      <jdbc-url>jdbc:dm://10.17.8.31:5002</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,97 @@
+{
+  "uid" : "cd5d6f7f3b525531",
+  "name" : "test_planwhole",
+  "fullName" : "T_AllurePlanWholeflowWT_111.TestPlan#test_planwhole",
+  "historyId" : "2b44ac42b4c414231c4023bdb268fca5",
+  "time" : {
+    "start" : 1686811073508,
+    "stop" : 1686811084033,
+    "duration" : 10525
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestPlan",
+    "time" : {
+      "start" : 1686811070103,
+      "stop" : 1686811073505,
+      "duration" : 3402
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4d8274b46431e60d",
+      "name" : "stdout",
+      "source" : "4d8274b46431e60d.txt",
+      "type" : "text/plain",
+      "size" : 1337
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestPlan::0",
+    "time" : {
+      "start" : 1686811084034,
+      "stop" : 1686811084034,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "T_AllurePlanWholeflowWT_111"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPlan"
+  }, {
+    "name" : "host",
+    "value" : "WIN-Q4LBVBF2PED"
+  }, {
+    "name" : "thread",
+    "value" : "36680-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "T_AllurePlanWholeflowWT_111"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd5d6f7f3b525531.json",
+  "parameterValues" : [ ]
+}

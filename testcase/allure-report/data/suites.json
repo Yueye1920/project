@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "测试套件",
+    "children" : [ {
+      "name" : "TestPytestOne",
+      "children" : [ {
+        "name" : "测试标题：用例一",
+        "uid" : "73a6ddd1dd4ba635",
+        "parentUid" : "fac3f60356e3220095e1d2adf2c1fa6e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686705661671,
+          "stop" : 1686705661675,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "f1a1afbb177018",
+        "parentUid" : "fac3f60356e3220095e1d2adf2c1fa6e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686705661764,
+          "stop" : 1686705661765,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fac3f60356e3220095e1d2adf2c1fa6e"
+    } ],
+    "uid" : "fdef19bc697af55184faaf651857829f"
+  } ]
+}

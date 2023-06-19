@@ -1,0 +1,116 @@
+{
+  "uid" : "d10bd2add0807f2e",
+  "name" : "测试标题：用例二",
+  "fullName" : "test_Demo.TestPytestOne#test_two",
+  "historyId" : "2ec345fc74a0254e50d5bd61cf14a8b2",
+  "time" : {
+    "start" : 1681116034114,
+    "stop" : 1681116034115,
+    "duration" : 1
+  },
+  "description" : "测试用例描述：用例二",
+  "descriptionHtml" : "<p>测试用例描述：用例二</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "action",
+    "time" : {
+      "start" : 1681116034113,
+      "stop" : 1681116034114,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "测试用例描述：用例二",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c30c2811b7d1279b",
+      "name" : "stdout",
+      "source" : "c30c2811b7d1279b.txt",
+      "type" : "text/plain",
+      "size" : 110
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "action::0",
+    "time" : {
+      "start" : 1681116034116,
+      "stop" : 1681116034116,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试模块"
+  }, {
+    "name" : "epic",
+    "value" : "*************测试描述*************"
+  }, {
+    "name" : "tag",
+    "value" : "测试用例标签：用例二"
+  }, {
+    "name" : "story",
+    "value" : "用户故事描述：用例二"
+  }, {
+    "name" : "suite",
+    "value" : "测试套件"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPytestOne"
+  }, {
+    "name" : "host",
+    "value" : "WIN-Q4LBVBF2PED"
+  }, {
+    "name" : "thread",
+    "value" : "48060-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址：http://10.17.8.228/#",
+    "url" : "测试用例地址：http://10.17.8.228/#",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "测试用例标签：用例二" ]
+  },
+  "source" : "d10bd2add0807f2e.json",
+  "parameterValues" : [ ]
+}

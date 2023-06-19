@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PY-213.7172.26">
+    <data-source name="DM Data Source" uuid="89a53a97-467e-4f43-a4af-2d5c6facaaed">
+      <database-info product="DM DBMS" version="8.1.2.84" jdbc-version="4.0" driver-name="dm.jdbc.driver.DmDriver" driver-version="8.1.1.88" dbms="UNKNOWN" exact-version="8.1" exact-driver-version="8.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>GN_DB_PAY1222</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>

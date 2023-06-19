@@ -1,0 +1,118 @@
+{
+  "uid" : "45f93147aa37fb20",
+  "name" : "测试标题：用例三",
+  "fullName" : "T_AllurePlanWholeflowWT_111.TestPlan#test_inc",
+  "historyId" : "42c0e442ab35a93fc2cdd8a021e3fa43",
+  "time" : {
+    "start" : 1687144804426,
+    "stop" : 1687144804427,
+    "duration" : 1
+  },
+  "description" : "测试用例描述：用例三",
+  "descriptionHtml" : "<p>测试用例描述：用例三</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestPlan",
+    "time" : {
+      "start" : 1687144803014,
+      "stop" : 1687144804426,
+      "duration" : 1412
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "测试用例描述：用例三",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7a5a937d817efafe",
+      "name" : "stdout",
+      "source" : "7a5a937d817efafe.txt",
+      "type" : "text/plain",
+      "size" : 24
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_method_fixture_TestPlan::0",
+    "time" : {
+      "start" : 1687144804427,
+      "stop" : 1687144804427,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "测试用例标签：用例二"
+  }, {
+    "name" : "suite",
+    "value" : "测试套件"
+  }, {
+    "name" : "story",
+    "value" : "用户故事描述：用例三"
+  }, {
+    "name" : "epic",
+    "value" : "熟悉pytest+selenium+allure自动化测试框架"
+  }, {
+    "name" : "feature",
+    "value" : "用款计划测试模块"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPlan"
+  }, {
+    "name" : "host",
+    "value" : "WIN-Q4LBVBF2PED"
+  }, {
+    "name" : "thread",
+    "value" : "11948-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "T_AllurePlanWholeflowWT_111"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址：http://10.17.8.111/#",
+    "url" : "测试用例地址：http://10.17.8.111/#",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "测试用例标签：用例二" ]
+  },
+  "source" : "45f93147aa37fb20.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jun 19 11:17:36 CST 2023","Mon Jun 19 11:20:01 CST 2023","144387","","测试套件","TestPlan","","","测试标题：用款计划全流程测试","计划批复成功"
+"passed","Mon Jun 19 11:20:04 CST 2023","Mon Jun 19 11:20:04 CST 2023","1","","测试套件","TestPlan","","","测试标题：用例三","测试用例描述：用例三"
+"passed","Mon Jun 19 11:20:02 CST 2023","Mon Jun 19 11:20:02 CST 2023","1","","测试套件","TestPlan","","","测试标题：用例二","测试用例描述：用例二"

@@ -1,0 +1,47 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "*************测试描述*************",
+    "children" : [ {
+      "name" : "测试模块",
+      "children" : [ {
+        "name" : "用户故事描述：用例一",
+        "children" : [ {
+          "name" : "测试标题：用例一",
+          "uid" : "73a6ddd1dd4ba635",
+          "parentUid" : "3aa512d518a1bad9cdec4049794b2e75",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686705661671,
+            "stop" : 1686705661675,
+            "duration" : 4
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3aa512d518a1bad9cdec4049794b2e75"
+      }, {
+        "name" : "用户故事描述：用例二",
+        "children" : [ {
+          "name" : "测试标题：用例二",
+          "uid" : "f1a1afbb177018",
+          "parentUid" : "eae592bed13826377f3e78e96f4c1fe0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1686705661764,
+            "stop" : 1686705661765,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eae592bed13826377f3e78e96f4c1fe0"
+      } ],
+      "uid" : "d0836ebef2ec4d9bf7feb071703981f4"
+    } ],
+    "uid" : "437e7c9a7b6698b5a4913e92e1a3a22b"
+  } ]
+}
