@@ -36,8 +36,8 @@ class TestPlan():
         # self.driver = webdriver.Chrome()
         # self.vars = {}
 
-    # def teardown_method(self):
-    #     self.driver.quit()
+    def teardown_method(self):
+        self.driver.quit()
 
     @allure.story('用户故事描述：用款计划测试')
     @allure.title('测试标题：用款计划全流程测试')
@@ -257,9 +257,9 @@ class TestPlan():
             # 点击用款计划录入（单位）菜单
             self.driver.find_element(By.XPATH,
                                      '//*[@id="app"]/div/div[3]/div[2]/div/div/div[1]/div[2]/div[2]/div/div[1]/div/div/span[1]').click()
-            time.sleep(1)
+            time.sleep(2)
 
-            self.driver.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div/div/div[3]/div[1]').click()
+            # self.driver.find_element(By.XPATH, '//*[@id="app"]/div/div[2]/div/div/div/div[3]/div[1]').click()
 
             # 点击待办事项
             self.driver.find_element(By.XPATH,
@@ -625,7 +625,7 @@ class TestPlan():
             # 关闭用款计划审核（复审）菜单
             self.driver.find_element(By.XPATH,
                                      '//*[@id="app"]/div/div[3]/div[1]/div/div[1]/ul/li[2]/div/div/em').click()
-
+            time.sleep(1)
             # 点击用款计划批复（国库）菜单
             self.driver.find_element(By.XPATH,
                                      '//*[@id="app"]/div/div[3]/div[2]/div/div/div[1]/div[2]/div[2]/div/div[1]/div/div/span[8]').click()
